@@ -2,7 +2,7 @@ package com.searchapp.dto;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties("databse.properties")
+//@ConfigurationProperties("databse.properties")
 public class DataBaseCredetials {
 
 	private String host;
